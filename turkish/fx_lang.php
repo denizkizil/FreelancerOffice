@@ -257,7 +257,7 @@ $lang['logged_hours'] = 'Logged Hours';
 $lang['logout'] = 'Log Out';
 $lang['low'] = 'Düşük';
 $lang['manage_profile'] = 'Profil Yönet';
-$lang['make_recurring'] = 'Make Recurring';
+$lang['make_recurring'] = 'Devir Yap';
 $lang['mark_as_sent'] = 'Gönderilmiş Olarak İşaretle';
 $lang['mark_as_accepted'] = 'Kabul Edildi Olarak İşaretle';
 $lang['mark_as_declined'] = 'Kabul Edilmedi Olarak İşaretle';
@@ -289,17 +289,17 @@ $lang['new_email'] = 'New Email';
 $lang['not_assigned'] = 'Atama Yapılmadı';
 $lang['notes'] = 'Notlar';
 $lang['nothing_to_display'] = 'Görüntülenecek birşey yok';
-$lang['no_activity_found'] = 'No activity found!';
-$lang['no_comment_found'] = 'No comment found!';
-$lang['no_results'] = 'No results found! Please try a different keyword.';
-$lang['no_avatar_selected'] = 'No avatar selected! Please try again.';
-$lang['old_password'] = 'Old Password';
+$lang['no_activity_found'] = 'Aktivite Bulunamadı!';
+$lang['no_comment_found'] = 'Yorum Bulunamadı';
+$lang['no_results'] = 'Sonuç Bulunamadı! Lütfen Farklı Bir Anahtar Kelime Deneyin.';
+$lang['no_avatar_selected'] = 'Profil Fotoğrafı Seçilemedi! Lütfen Tekrar Deneyin.';
+$lang['old_password'] = 'Eski Parola';
 $lang['outstanding'] = 'Outstanding';
 $lang['other_details'] = 'Diğer Detaylar';
-$lang['open'] = 'Open';
+$lang['open'] = 'Aç';
 $lang['options'] = 'Opsiyonlar';
-$lang['operation_failed'] = 'Operation failed! Please try again.';
-$lang['operation_successful'] = 'Operation completed successfully!';
+$lang['operation_failed'] = 'İşlem Başarısız! Lütfen Tekrar Deneyin';
+$lang['operation_successful'] = 'İşlem Başarıyla Tamamlandı!';
 $lang['overpaid_amount'] = 'Paid amount exceeds the due amount!';
 $lang['password'] = 'Parola';
 $lang['password_or_email_error'] = 'The password entered is incorrect or your email is not valid. Please try again.';
@@ -548,10 +548,10 @@ $lang['from_templates'] = 'From Templates';
 // New Language files - login - register
 $lang['sign_up_form'] = 'Sign up for ';
 $lang['sign_up'] = 'Sign Up';
-$lang['already_have_an_account'] = 'Already have an account?';
+$lang['already_have_an_account'] = 'Hesabınız Var Mı??';
 
 // New Language files - Modules project
-$lang['type_your_note_here'] = 'Type your note here.';
+$lang['type_your_note_here'] = 'Notunuzu Buraya Girin.';
 
 // New Language files - Untranslated words
 $lang['notification'] = 'Notifications';
